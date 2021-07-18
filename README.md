@@ -1,2 +1,2 @@
 # TestWebsite0
-just a test.
+This file is just a test where I mess around with HTML and JavaScript.
